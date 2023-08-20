@@ -17,6 +17,6 @@ Guess The Word Game in Java implements the Jumble word game as provide Task 2 fo
 
 
 ## `Installation`
-<li>Clone the repository: git clone  </li>
+<li>Clone the repository: git clone https://github.com/91prachi74/NXTECH-JAVA-Task-Number.git </li>
 <li>Open the project folder in your preferred code editor.</li>
-<li>Open the java banking aplication file in a web browser.</li>
+<li>Open the Guess word game in java file in a web browser.</li>
